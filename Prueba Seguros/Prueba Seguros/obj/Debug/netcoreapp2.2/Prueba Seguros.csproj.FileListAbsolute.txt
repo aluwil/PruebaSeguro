@@ -1,0 +1,14 @@
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\bin\Debug\netcoreapp2.2\Prueba Seguros.deps.json
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\bin\Debug\netcoreapp2.2\Prueba Seguros.runtimeconfig.json
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\bin\Debug\netcoreapp2.2\Prueba Seguros.runtimeconfig.dev.json
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\bin\Debug\netcoreapp2.2\Prueba Seguros.dll
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\obj\Debug\netcoreapp2.2\Prueba Seguros.csprojAssemblyReference.cache
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\obj\Debug\netcoreapp2.2\Prueba Seguros.csproj.CoreCompileInputs.cache
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\obj\Debug\netcoreapp2.2\Prueba Seguros.RazorAssemblyInfo.cache
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\obj\Debug\netcoreapp2.2\Prueba Seguros.RazorAssemblyInfo.cs
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\obj\Debug\netcoreapp2.2\Prueba Seguros.AssemblyInfoInputs.cache
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\obj\Debug\netcoreapp2.2\Prueba Seguros.AssemblyInfo.cs
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\obj\Debug\netcoreapp2.2\Prueba Seguros.RazorTargetAssemblyInfo.cache
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\bin\Debug\netcoreapp2.2\Prueba Seguros.pdb
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\obj\Debug\netcoreapp2.2\Prueba Seguros.dll
+D:\pru\Prueba Seguros\Prueba Seguros\Prueba Seguros\obj\Debug\netcoreapp2.2\Prueba Seguros.pdb
